@@ -1,0 +1,39 @@
+.idea
+**/target
+*~
+**/DEVELOPMENT/
+**/.ipynb_checkpoints
+**/__pycache__
+*.log
+metastore_db/
+*.sublime-project
+.cache
+dist
+*.egg-info
+build
+**/app.conf
+*.pyc
+output/
+/ltr-output/
+
+# Local development things
+.condaauto
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+.hypothesis/
+reports
+.pytest_cache/
+
+# pyenv
+.python-version
+
+# IntelliJ
+*.iml%
