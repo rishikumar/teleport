@@ -1,4 +1,4 @@
-# ByteCubed: Teleportation
+# Teleportation
 
 ## Getting it Running
 

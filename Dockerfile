@@ -5,6 +5,6 @@ RUN \
     pip install -r /requirements.txt \
     && rm -rf requirements.txt
 
-COPY . /bytecubed
-WORKDIR /bytecubed
+COPY . /teleport
+WORKDIR /teleport
 
